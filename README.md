@@ -7,7 +7,7 @@ This is my attempt for Sabbar Challenge. this app is built using Flutter, and ma
 
 
 
-| GIF | Description |
+|  |  |
 |--|--|
 |<img src="https://github.com/waleedf112/Sabbar-Challenge/raw/master/Showcase/1.gif"  height="900" />|<img src="https://github.com/waleedf112/Sabbar-Challenge/raw/master/Showcase/2.gif"  height="900" />
 |**Location Permission Handling:** Showcasing that if the user did not allow the app to access their location, the app shows the same page with the button to show the permission dialog again! but if the user granted location access, the app shows the map with the user's current location.|**Moving Around The Map:** the user can move around the map freely and smoothly.
