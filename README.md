@@ -1,6 +1,5 @@
 
 # Sabbar Challenge
-___
 
 This is my attempt for Sabbar Challenge. this app is built using Flutter, and many Google Maps APIs.
 
